@@ -1,0 +1,12 @@
+:root {
+    --main-Color: #08526d;
+    --sub-Color: #ec1c23;
+}
+
+/*Upper Nav*/
+.upper-nav {
+    background-color: var(--main-Color);
+    color: #fff;
+    /* padding: 10px; */
+}
+/*Upper Nav*/
